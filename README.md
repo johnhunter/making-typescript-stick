@@ -1,4 +1,4 @@
-# Making TypeScript Stick [![CI](https://github.com/mike-north/making-typescript-stick/actions/workflows/ci.yml/badge.svg)](https://github.com/mike-north/making-typescript-stick/actions/workflows/ci.yml)
+# Making TypeScript Stick
 
 Mike North's "Making TypeScript Stick" course.
 
